@@ -1,9 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> f8efc05 (l1)
 /node_modules
 node_modules/
 /frontend/node_modules/
 .env
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> c2e448a (Initial commit)
+>>>>>>> f8efc05 (l1)
 # Logs
 logs
 *.log
@@ -110,6 +119,18 @@ dist
 .temp
 .cache
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# vitepress build output
+**/.vitepress/dist
+
+# vitepress cache directory
+**/.vitepress/cache
+
+=======
+>>>>>>> c2e448a (Initial commit)
+>>>>>>> f8efc05 (l1)
 # Docusaurus cache and generated files
 .docusaurus
 
@@ -134,4 +155,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> 57dd29b (first commit)
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 57dd29b (first commit)
+>>>>>>> c2e448a (Initial commit)
+>>>>>>> f8efc05 (l1)

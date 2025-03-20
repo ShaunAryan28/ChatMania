@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+ 
 
 # Chat-Mania
 
@@ -260,4 +261,9 @@ export default Chat;
 ## **Final Thoughts**
 This detailed design covers everything **from architecture to code snippets**. If implemented correctly, it will result in a **highly scalable, low-latency, real-time chat application**.
 
+<<<<<<< HEAD
 This is **submission-ready**—but let me know if you need further refinements. 🚀
+=======
+This is **submission-ready**—but let me know if you need further refinements. 🚀
+>>>>>>> c2e448a (Initial commit)
+>>>>>>> f8efc05 (l1)
