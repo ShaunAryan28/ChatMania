@@ -18,13 +18,13 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/ShaunAryan28/mern-chat-app
+  git clone https://github.com/ShaunAryan28/Chat-Mania
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd ChatMania
 ```
 
 Install dependencies
@@ -50,31 +50,7 @@ Start the Client
   cd frontend
   npm start
 ```
-
-  
-# Features
-
-### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
-
-- [@ShaunAryan28](https://github.com/ShaunAryan28)
-
+ 
  
 # **Real-Time Chat Application Design Document**  
 
@@ -257,13 +233,4 @@ export default Chat;
 ✅ **AI Chatbot** – Automate responses using **ChatGPT API** for a smart assistant.  
 
 ---
-
-## **Final Thoughts**
-This detailed design covers everything **from architecture to code snippets**. If implemented correctly, it will result in a **highly scalable, low-latency, real-time chat application**.
-
-<<<<<<< HEAD
-This is **submission-ready**—but let me know if you need further refinements. 🚀
-=======
-This is **submission-ready**—but let me know if you need further refinements. 🚀
->>>>>>> c2e448a (Initial commit)
->>>>>>> f8efc05 (l1)
+ 
